@@ -16,4 +16,5 @@ Analysed genre of the movies which were being pushed forward by Hotstar Algorith
 <img src="https://github.com/harshit-iitd/Case_Study/blob/master/Hotstar.png" width="500" height="500" />
 
 All the analysis was done using Pandas Library and Python.
+
 See GenreAnalysis.ipynb for all the results.
