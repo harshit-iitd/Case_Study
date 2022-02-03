@@ -3,7 +3,7 @@ In this repo I have collected/made datasets to analyse Popularity of various gen
 Netflix- Made an excelsheet named Netflix.csv of top 10 movies in Netflix India since June 28 - 2 Feb. (Refer to this website https://top10.netflix.com/india/films/2022-01-30)
 Analysed different genre types using pandas library.
 
-![alt text](https://github.com/harshit-iitd/Case_Study/blob/master/Netflix.png | width=100)
+![alt text](https://github.com/harshit-iitd/Case_Study/blob/master/Netflix.png =100x100)
 
 Theatre- Dataset was taken from kaggle(https://www.kaggle.com/sugandhkhobragade/bollywood-box-office-20172020). It cantains name of the movies released since 2017 and their box office collection.
 During Analysis I considered movies which crosses 50cr mark as Superhits and analysed their genre. 
